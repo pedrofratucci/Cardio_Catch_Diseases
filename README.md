@@ -1,5 +1,5 @@
 # Cardio Catch Diseases Prediction
-![Main figure](https://user-images.githubusercontent.com/81817799/113494376-0431c600-94be-11eb-992d-d7a68f0f71c5.png)
+![Main figure](https://sejaumdatascientist.com/wp-content/uploads/2020/09/doctor.png)
 
 # Business Problem
 
