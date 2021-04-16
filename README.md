@@ -21,10 +21,36 @@ Increment the Cardio Catch Diseases company (CCD) profit. By increase the diagno
 
 Create a binary classification toll with statics model and machine learning to increase the diagnostics tests precision and stability.
 
-# Features 
+# Dataset Summary
+
+- **id** - [int]: Patients ID register in the system
+- **age** - [int]: Patients age in days 
+- **height** - [float]: Patients height in cm
+- **weight** - [float]: Patients weight in kg
+- **gender** - [binary]: Patients gender
+- **ap_hi** - [float]: Patients diastolic blood pressure
+- **ap_lo** - [float]: Patients diastolic blood pressure
+- **cholesterol** - [categorical]: Patients cholesterol level
+- **gluc** - [categorical]: Patients glucose level
+- **smoke** - [binary]: Check if Patients is a smoker
+- **alco** - [binary]: Check if Patients is a drinker
+- **active** - [binary]: Check if patients practices physical activities
+- **cardio** - [binary]: Check if patients practices has cardiovascular diseases
+- 
+#  Mind Map
 ![mind_map](https://user-images.githubusercontent.com/81817799/113487755-37f5f700-9490-11eb-8896-7f74e6c4b95b.png)
 
 # Exploratory Data Analysis
+
+## Univariate Analysis
+
+- **Categorical features distribution analysis**
+In process...
+
+- **Numerical features distribution analysis**
+In process...
+
+## Bivariate Analysis
 
 - **HYPOTESE 1 (H1): Chances of having Heart diseases increases by being a man**
 
@@ -75,15 +101,18 @@ Create a binary classification toll with statics model and machine learning to i
 
 ![H10_TR](https://user-images.githubusercontent.com/81817799/113488622-9b365800-9495-11eb-9a5a-3d1092ea18bf.png)
 
+## Multivariate Analysis
+In process...
+
 # Business Solution Performance
 
-- **Business accuracy methods comparison**
+## Business accuracy methods comparison**
 ![bussines_method](https://user-images.githubusercontent.com/81817799/113519039-457ab200-9560-11eb-9044-66c996505334.png)
 
 
 
 
-- **Business revenue methods comparison**
+## Business revenue methods comparison**
 ![business_revenue](https://user-images.githubusercontent.com/81817799/113519146-d2be0680-9560-11eb-9fe4-ce45bf133a51.png)
   
   
