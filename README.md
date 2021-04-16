@@ -40,7 +40,7 @@ Create a binary classification toll with statics model and machine learning to i
 - **active** - [binary]: Check if patients practices physical activities
 - **cardio** - [binary]: Check if patients practices has cardiovascular diseases
 
-#  Mind Map
+#  Mind Map Hypoteses
 ![mind_map](https://user-images.githubusercontent.com/81817799/113487755-37f5f700-9490-11eb-8896-7f74e6c4b95b.png)
 
 
@@ -156,12 +156,12 @@ This correlation isn't good for the model, because it increases the dimensionali
 
 # Business Solution Performance
 
-## Business accuracy methods comparison**
+## Business accuracy methods comparison
 
 In process...
 
 
-## Business revenue methods comparison**
+## Business revenue methods comparison
 
 In process...
   
@@ -178,4 +178,11 @@ Optimize the machine learning model precision interval for values over 75%, so t
 
 # References
 
-In process...
+## Data Source
+- https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
+
+## Business problem Source
+- https://sejaumdatascientist.com/projeto-de-data-science-diagnostico-precoce-de-doencas-cardiovasculares/
+
+## Supplementary Materials
+- https://www.medicalnewstoday.com/articles/327178#categories
