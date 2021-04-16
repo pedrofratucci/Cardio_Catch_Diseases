@@ -94,3 +94,8 @@ In process...
 # Further Improvements
 
 Optimize the machine learning model accuracy interval for values over 75%, so the diagnosis test price always remain R$ 2.500,00.
+
+
+# References
+
+In process...
