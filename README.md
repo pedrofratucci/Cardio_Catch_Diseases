@@ -62,12 +62,12 @@ In process...
 ![H2_TR](https://user-images.githubusercontent.com/81817799/113488531-25ca8780-9495-11eb-99d4-406e6be50996.png)
 
 
-### HYPOTESE: Chances of having Heart diseases increases by increase the Cholesterol level
+### HYPOTESE 3: Chances of having Heart diseases increases by increase the Cholesterol level
 
 ![H3_TR](https://user-images.githubusercontent.com/81817799/113488691-0aac4780-9496-11eb-8341-082fdb23718b.png)
 
 
-### HYPOTESE: Chances of having Heart diseases increases by increase the Glucose level
+### HYPOTESE 4: Chances of having Heart diseases increases by increase the Glucose level
 
 ![H4_TR](https://user-images.githubusercontent.com/81817799/113488699-10a22880-9496-11eb-859d-de4cd53a7f75.png)
 
