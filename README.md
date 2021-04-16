@@ -52,50 +52,50 @@ In process...
 
 ## Bivariate Analysis
 
-### HYPOTESE 1 (H1): Chances of having Heart diseases increases by being a man**
+### HYPOTESE 1: Chances of having Heart diseases increases by being a man**
 
 ![H1_TR](https://user-images.githubusercontent.com/81817799/113488476-cb312b80-9494-11eb-8625-f82a64366c67.png)
 
 
-### HYPOTESE 2 (H2): Chances of having Heart diseases increases by increase the Body Mass Index**
+### HYPOTESE 2: Chances of having Heart diseases increases by increase the Body Mass Index**
 
 ![H2_TR](https://user-images.githubusercontent.com/81817799/113488531-25ca8780-9495-11eb-99d4-406e6be50996.png)
 
 
-### HYPOTESE 3 (H3): Chances of having Heart diseases increases by increase the Cholesterol level**
+### HYPOTESE: Chances of having Heart diseases increases by increase the Cholesterol level**
 
 ![H3_TR](https://user-images.githubusercontent.com/81817799/113488691-0aac4780-9496-11eb-8341-082fdb23718b.png)
 
 
-### HYPOTESE 4 (H4): Chances of having Heart diseases increases by increase the Glucose level**
+### HYPOTESE: Chances of having Heart diseases increases by increase the Glucose level**
 
 ![H4_TR](https://user-images.githubusercontent.com/81817799/113488699-10a22880-9496-11eb-859d-de4cd53a7f75.png)
 
 
-### HYPOTESE 5 (H5): Chances of having Heart diseases increases by being a smoker**
+### HYPOTESE 5: Chances of having Heart diseases increases by being a smoker**
 
 ![H5_TR](https://user-images.githubusercontent.com/81817799/113488705-15ff7300-9496-11eb-91ac-6612bbac593e.png)
 
 
-### HYPOTESE 6 (H6): Chances of having Heart diseases increases by intake alcohol through life**
+### HYPOTESE 6: Chances of having Heart diseases increases by intake alcohol through life**
 
 ![H6_TR](https://user-images.githubusercontent.com/81817799/113488576-662a0580-9495-11eb-8cab-bab65fb4fb7a.png)
 
 
-### HYPOTESE 7 (H7): Chances of having Heart diseases decreases by being an active person through life**
+### HYPOTESE 7: Chances of having Heart diseases decreases by being an active person through life**
 
 ![H7_TR](https://user-images.githubusercontent.com/81817799/113488582-7346f480-9495-11eb-871c-97a92c43d0a1.png)
 
-### HYPOTESE 8 (H8): Chances of having Heart diseases increases by being an older person**
+### HYPOTESE 8: Chances of having Heart diseases increases by being an older person**
 
 ![H8_TR](https://user-images.githubusercontent.com/81817799/113488599-8063e380-9495-11eb-845b-5e39e5f57002.png)
 
-### HYPOTESE 9 (H9): Chances of having Heart diseases increases by being hypertensive person**
+### HYPOTESE 9: Chances of having Heart diseases increases by being hypertensive person**
 
 ![H9_TR](https://user-images.githubusercontent.com/81817799/113488611-8e196900-9495-11eb-9d28-466b3a3ab602.png)
 
 
-### HYPOTESE 10 (H10): Chances of having Heart diseases is higher between hypertensive elderly people than general hypertensive people**
+### HYPOTESE 10: Chances of having Heart diseases is higher between hypertensive elderly people than general hypertensive people**
 
 ![H10_TR](https://user-images.githubusercontent.com/81817799/113488622-9b365800-9495-11eb-9a5a-3d1092ea18bf.png)
 
