@@ -178,11 +178,11 @@ Optimize the machine learning model precision interval for values over 75%, so t
 
 # References
 
+## Business Problem Source
+- https://sejaumdatascientist.com/projeto-de-data-science-diagnostico-precoce-de-doencas-cardiovasculares/
+
 ## Data Source
 - https://www.kaggle.com/sulianova/cardiovascular-disease-dataset
-
-## Business problem Source
-- https://sejaumdatascientist.com/projeto-de-data-science-diagnostico-precoce-de-doencas-cardiovasculares/
 
 ## Supplementary Materials
 - https://www.medicalnewstoday.com/articles/327178#categories
