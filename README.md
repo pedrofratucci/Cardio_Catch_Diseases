@@ -157,11 +157,13 @@ This correlation isn't good for the model, because it increases the dimensionali
 # Business Solution Performance
 
 ## Business accuracy methods comparison**
-![bussines_method](https://user-images.githubusercontent.com/81817799/113519039-457ab200-9560-11eb-9044-66c996505334.png)
+
+In process...
 
 
 ## Business revenue methods comparison**
-![business_revenue](https://user-images.githubusercontent.com/81817799/113519146-d2be0680-9560-11eb-9fe4-ce45bf133a51.png)
+
+In process...
   
   
 # Model Deploy
