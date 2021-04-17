@@ -182,7 +182,7 @@ In process...
 
 ## Business revenue methods comparison
 
-In process...
+![business_revenue](https://user-images.githubusercontent.com/81817799/115121649-406b2900-9f8a-11eb-8106-a696dca825fd.png)
   
   
 # Model Deploy
