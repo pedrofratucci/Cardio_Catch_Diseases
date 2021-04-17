@@ -177,7 +177,7 @@ So, **we will choose the LGBM Tuned as the final model to propose.**
 
 ## Business accuracy methods comparison
 
-In process...
+![business_method](https://user-images.githubusercontent.com/81817799/115126482-a5804800-9fa5-11eb-8b56-0f722618887c.JPG)
 
 
 ## Business revenue methods comparison
@@ -187,7 +187,7 @@ In process...
   
 # Model Deploy
 
-In process...
+![business_revenue](https://user-images.githubusercontent.com/81817799/115126485-ab762900-9fa5-11eb-8c4b-5dee1799df9f.PNG)
 
 
 # Further Improvements
