@@ -157,8 +157,7 @@ To start, the following machine learning models were tested:
 ![machine_learning_models](https://user-images.githubusercontent.com/81817799/115121127-778c0b00-9f87-11eb-8188-cdb5d34ff69f.png)
 
 - **On the business side:** We are aiming Precision score. Because each 5% increases on it is a R$ 500 increase in the diagnosis test price
-<br>
-<br>
+
 - **On the patient side:** We are aiming Recall score. Because it reduces the chance of having a False Negative test result. As we know, false negatives results, frequently, comforts people into not retest. And in this case, there will be people with a growing disease that they don't know
 
 So, we will choose the Top 4 best F1 Score models above to analyze, which is a metric that takes into account the Precision and the Recall metrics.
@@ -169,10 +168,9 @@ So, we will choose the Top 4 best F1 Score models above to analyze, which is a m
 
 - All LGBM models have almost the same metrics, in general
 - Taking in account that the LGBM Tuned model have a considerable Precision Deviation that, is the best case, will not predict with a precision higher than 75%, which is a turning point to increase by R$ 500 the test price. So it will be cut out
-<br>
 - Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the LGBM Tuned & Calibrated model, it will be cut out, thinking about the patients interests
 
-So, we will choose the LGBM Tuned & Calibrated as the final model to propose.
+So, **we will choose the LGBM Tuned & Calibrated as the final model to propose.**
 
 # Business Solution Performance
 
