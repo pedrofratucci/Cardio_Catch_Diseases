@@ -170,7 +170,7 @@ So, we will choose the Top 4 best F1 Score models above to analyze, which is a m
 - Taking in account that the LGBM Tuned model have a considerable Precision Deviation that, is the best case, will not predict with a precision higher than 75%, which is a turning point to increase by R$ 500 the test price. So it will be cut out
 - Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the LGBM Tuned & Calibrated model, it will be cut out, thinking about the patients interests
 
-So, <font color= red> **we will choose the LGBM Tuned & Calibrated as the final model to propose.** <font>
+So, **we will choose the LGBM Tuned & Calibrated as the final model to propose.**
 
 **OBS:** For more about the decisions made and how it was done: [Cardio Catch Diseases notebook](https://github.com/pedrofratucci/Cardio_Catch_Diseases/blob/main/notebooks/cardio_catch_deseases_PH.ipynb)
 
