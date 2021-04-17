@@ -182,12 +182,12 @@ So, **we will choose the LGBM Tuned as the final model to propose.**
 
 ## Business revenue methods comparison
 
-In process...
+![business_revenue](https://user-images.githubusercontent.com/81817799/115126485-ab762900-9fa5-11eb-8c4b-5dee1799df9f.PNG)
   
   
 # Model Deploy
 
-![business_revenue](https://user-images.githubusercontent.com/81817799/115126485-ab762900-9fa5-11eb-8c4b-5dee1799df9f.PNG)
+In process...
 
 
 # Further Improvements
