@@ -163,11 +163,11 @@ So, we will choose the Top 4 best F1 Score models above to analyze, which is a m
 
 # Machine Learning Model Proposed
 
-![final_machine_learning_models](https://user-images.githubusercontent.com/81817799/115121225-dc476580-9f87-11eb-88ae-a919e2825645.png)
+![final_machine_learning_model](https://user-images.githubusercontent.com/81817799/115125769-b7abb780-9fa0-11eb-9106-5fb2cea58791.png)
 
 - All LGBM models have almost the same metrics, in general
-- Taking in account that the LGBM Tuned model have a considerable Precision Deviation that, is the best case, will not predict with a precision higher than 75%, which is a turning point to increase by R$ 500 the test price. So it will be cut out
-- Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the LGBM Tuned & Calibrated model, it will be cut out, thinking about the patients interests
+- Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the others, it will be cut out, thinking about the patients interests
+- Taking in account that the LGBM Tuned & Calibrated model have a lower Recall interval minimum value than the LGBM Tuned model, it will be cut out, thinking about the patients interests
 
 So, **we will choose the LGBM Tuned & Calibrated as the final model to propose.**
 
