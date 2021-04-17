@@ -150,7 +150,7 @@ Prehypertense elderlies are more likely to have cardiovascular diseases than pre
 - 'age_range'
 - 'weight'
 
-# Machine Learning Models Test
+# Machine Learning Models Testing
 
 To start, the following machine learning models were tested:
 
