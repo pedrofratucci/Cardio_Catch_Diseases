@@ -169,7 +169,7 @@ So, we will choose the Top 4 best F1 Score models above to analyze, which is a m
 - Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the others, it will be cut out, thinking about the patients interests
 - Taking in account that the LGBM Tuned & Calibrated model have a lower Recall interval minimum value than the LGBM Tuned model, it will be cut out, thinking about the patients interests
 
-So, **we will choose the LGBM Tuned & Calibrated as the final model to propose.**
+So, **we will choose the LGBM Tuned as the final model to propose.**
 
 **OBS:** For more about the decisions made and how it was done: [Cardio Catch Diseases notebook](https://github.com/pedrofratucci/Cardio_Catch_Diseases/blob/main/notebooks/cardio_catch_deseases_PH.ipynb)
 
