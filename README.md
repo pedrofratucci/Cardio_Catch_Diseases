@@ -26,19 +26,19 @@ Create a binary classification toll with statics model and machine learning to i
 
 # Dataset Summary
 
-- **id** - [int]: Patients ID register in the system
-- **age** - [int]: Patients age in days 
-- **height** - [float]: Patients height in cm
-- **weight** - [float]: Patients weight in kg
-- **gender** - [binary]: Patients gender
-- **ap_hi** - [float]: Patients diastolic blood pressure
-- **ap_lo** - [float]: Patients diastolic blood pressure
-- **cholesterol** - [categorical]: Patients cholesterol level
-- **gluc** - [categorical]: Patients glucose level
-- **smoke** - [binary]: Check if Patients is a smoker
-- **alco** - [binary]: Check if Patients is a drinker
-- **active** - [binary]: Check if patients practices physical activities
-- **cardio** - [binary]: Check if patients practices has cardiovascular diseases
+- **`id`** - [int]: Patients ID register in the system
+- **`age`** - [int]: Patients age in days 
+- **`height`** - [float]: Patients height in cm
+- **`weight`** - [float]: Patients weight in kg
+- **`gender`** - [binary]: Patients gender
+- **`ap_hi`** - [float]: Patients diastolic blood pressure
+- **`ap_lo`** - [float]: Patients diastolic blood pressure
+- **`cholesterol`** - [categorical]: Patients cholesterol level
+- **`gluc`** - [categorical]: Patients glucose level
+- **`smoke`** - [binary]: Check if Patients is a smoker
+- **`alco`** - [binary]: Check if Patients is a drinker
+- **`active`** - [binary]: Check if patients practices physical activities
+- **`cardio`** - [binary]: Check if patients practices has cardiovascular diseases
 
 #  Mind Map Hypoteses
 ![mind_map](https://user-images.githubusercontent.com/81817799/113487755-37f5f700-9490-11eb-8896-7f74e6c4b95b.png)
@@ -69,7 +69,7 @@ Create a binary classification toll with statics model and machine learning to i
 
 ![num_features_distribution](https://user-images.githubusercontent.com/81817799/115087441-8bcafc00-9ee4-11eb-94bf-578467169c16.png)
 
-All numerical variables have a large number of outliers yet, except the 'age' feature.
+All numerical variables have a large number of outliers yet, except the **`age`** feature.
 
 
 ## Bivariate Analysis
@@ -141,14 +141,14 @@ Prehypertense elderlies are more likely to have cardiovascular diseases than pre
 ![features_relations](https://user-images.githubusercontent.com/81817799/115087781-3ba06980-9ee5-11eb-8e91-e36fcf065adf.png)
 **There are some variables that have considerable impact over 'cardio_disease' result values:**
 
-- 'high_pressure'
-- 'hypertension_level'
-- 'low_pressure'
-- 'age'
-- 'cholesterol'
-- 'BMI'
-- 'age_range'
-- 'weight'
+- **`high_pressure`**
+- **`hypertension_level`**
+- **`low_pressure`**
+- **`age`**
+- **`cholesterol`**
+- **`BMI`**
+- **`age_range`**
+- **`weight`**
 
 # Machine Learning Models Testing
 
