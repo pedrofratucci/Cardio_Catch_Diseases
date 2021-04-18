@@ -177,12 +177,12 @@ So, **we will choose the LGBM Tuned as the final model to propose.**
 
 ## Business Precision Methods Comparison
 
-![business_method](https://user-images.githubusercontent.com/81817799/115126482-a5804800-9fa5-11eb-8b56-0f722618887c.JPG)
+![business_method](https://user-images.githubusercontent.com/81817799/115146735-25ea8b80-a02e-11eb-96cf-afa2065339a8.JPG)
 
 
 ## Business Revenue Methods Comparison
 
-![business_revenue](https://user-images.githubusercontent.com/81817799/115126485-ab762900-9fa5-11eb-8c4b-5dee1799df9f.PNG)
+![business_revenue](https://user-images.githubusercontent.com/81817799/115146742-2daa3000-a02e-11eb-91bf-aff765513782.JPG)
   
   
 # Model Deploy
