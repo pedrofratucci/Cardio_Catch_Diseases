@@ -161,7 +161,7 @@ To start, the following machine learning models were tested:
 
 So, we will choose the Top 4 best F1 Score models above to analyze, which is a metric that takes into account the Precision and the Recall metrics.
 
-# Machine Learning Model Proposed
+# Proposed Machine Learning Model
 
 ![final_machine_learning_model](https://user-images.githubusercontent.com/81817799/115125769-b7abb780-9fa0-11eb-9106-5fb2cea58791.png)
 
