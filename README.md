@@ -192,7 +192,7 @@ So, **we will choose the LGBM Tuned as the final model to propose.**
 The diagnosis test is processed through a manual analysis, by a specialists team.
 It depends on the precision achieved by the team and on properly working devices. Which causes a significant precision deviance.
 
-**Precision Interval Achieved: 55% to 65%
+**Precision Interval Achieved: 55% to 65%**
 
 ### Proposed Business Method Precision
 
