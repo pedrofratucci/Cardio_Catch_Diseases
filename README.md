@@ -210,8 +210,8 @@ Taking the considerable precision deviance and range, it creates an unpredictabl
 
 It takes a R$ 1,000.00 price cost, which includes the specialists team payment and operation devices cost.
 
-**Worst Scenario: - R$ 500.00
-**Best Scenario:    R$ 500.00 
+**Worst Scenario: - R$ 500.00**
+**Best Scenario:    R$ 500.00** 
 
 ### Proposed Business Diagnosis Test Profit
 
@@ -219,8 +219,8 @@ Taking in account the small precision deviance and range, compared to the actual
 
 Taking both cases best scenarios in comparison, we have a 400% revenue increase.
 
-**Worst Scenario: R$ 2,000.00
-**Best Scenario:  R$ 2,500.00 
+**Worst Scenario: R$ 2,000.00**
+**Best Scenario:  R$ 2,500.00** 
 
   
 # Model Deploy
@@ -230,7 +230,7 @@ In process...
 
 # Further Improvements
 
-Optimize the machine learning model precision interval for values over 75%, so the diagnosis test price always remain R$ 2.500,00.
+Optimize the machine learning model precision interval for values over 75%, so the diagnosis test price always remain R$ 2.500,00 so we can have a predictable revenue.
 
 
 # References
