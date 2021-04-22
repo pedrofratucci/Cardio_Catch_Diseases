@@ -187,12 +187,41 @@ So, **we will choose the LGBM Tuned as the final model to propose.**
 
 ## Business Precision Methods Comparison
 
-<img src= "storytelling/business_method.JPG">
+### Actual Business Method Precision
+
+The diagnosis test is processed through a manual analysis, by a specialists team.
+It depends on the precision achieved by the team and on properly working devices. Which causes a significant precision deviance.
+
+**Precision Interval Achieved: 55% to 65%
+
+### Proposed Business Method Precision
+
+The diagnosis test is processed through an automatic analysis, independent on human analysis.
+
+It depends on the machine learning algorithm running on a cloud plataform. This algorithm implementaion generates a small precision deviance.
+
+**Precision Interval Achieved: 73,33% to 75,37%
 
 ## Business Revenue Methods Comparison
 
-<img src= "storytelling/business_revenue.JPG">
-  
+### Actual Business Diagnosis Test Profit
+
+Taking the considerable precision deviance and range, it creates an unpredictable revenue, with positive and negative resulting scenarios.
+
+It takes a R$ 1,000.00 price cost, which includes the specialists team payment and operation devices cost.
+
+**Worst Scenario: - R$ 500.00
+**Best Scenario:    R$ 500.00 
+
+### Proposed Business Diagnosis Test Profit
+
+Taking in account the small precision deviance and range, compared to the actual business method, it still creates an unpredictable revenue as well, buy only with positive resulting scenarios.
+
+Taking both cases best scenarios in comparison, we have a 400% revenue increase.
+
+**Worst Scenario: R$ 2,000.00
+**Best Scenario:  R$ 2,500.00 
+
   
 # Model Deploy
 
