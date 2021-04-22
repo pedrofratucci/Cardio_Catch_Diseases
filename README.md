@@ -200,7 +200,7 @@ The diagnosis test is processed through an automatic analysis, independent on hu
 
 It depends on the machine learning algorithm running on a cloud plataform. This algorithm implementaion generates a small precision deviance.
 
-**Precision Interval Achieved: 73,33% to 75,37%
+**Precision Interval Achieved: 73,33% to 75,37%**
 
 ## Business Revenue Methods Comparison
 
@@ -211,6 +211,7 @@ Taking the considerable precision deviance and range, it creates an unpredictabl
 It takes a R$ 1,000.00 price cost, which includes the specialists team payment and operation devices cost.
 
 **Worst Scenario: - R$ 500.00**
+<br>
 **Best Scenario:    R$ 500.00** 
 
 ### Proposed Business Diagnosis Test Profit
@@ -220,6 +221,7 @@ Taking in account the small precision deviance and range, compared to the actual
 Taking both cases best scenarios in comparison, we have a 400% revenue increase.
 
 **Worst Scenario: R$ 2,000.00**
+<br>
 **Best Scenario:  R$ 2,500.00** 
 
   
