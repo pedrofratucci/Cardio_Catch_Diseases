@@ -42,7 +42,7 @@ Create a binary classification toll with statics model and machine learning to i
 
 #  Mind Map Hypoteses
 
-<img src= "images/mind_map.png">
+<img src= "storytelling/mind_map.png">
 
 # Exploratory Data Analysis
 
