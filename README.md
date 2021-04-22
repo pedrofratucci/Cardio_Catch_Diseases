@@ -41,8 +41,8 @@ Create a binary classification toll with statics model and machine learning to i
 - **`cardio`** - [binary]: Check if patients practices has cardiovascular diseases
 
 #  Mind Map Hypoteses
-![mind_map](https://user-images.githubusercontent.com/81817799/113487755-37f5f700-9490-11eb-8896-7f74e6c4b95b.png)
 
+<img src= "images/mind_map.png">
 
 # Exploratory Data Analysis
 
@@ -51,7 +51,7 @@ Create a binary classification toll with statics model and machine learning to i
 
 ### Categorical Features Distribution Analysis
 
-![cat_features_distribution](https://user-images.githubusercontent.com/81817799/115087403-76ee6880-9ee4-11eb-8acc-eda5658acc9f.png)
+<img src= "storytelling/cat_features_distribution.png"> 
 
 - Most of the patients are woman
 - Most of the patients have a normal cholesterol level
@@ -67,7 +67,7 @@ Create a binary classification toll with statics model and machine learning to i
 
 ### Numerical Features Distribution Analysis
 
-![num_features_distribution](https://user-images.githubusercontent.com/81817799/115087441-8bcafc00-9ee4-11eb-94bf-578467169c16.png)
+<img src= "storytelling/num_features_distribution.png"> 
 
 All numerical variables have a large number of outliers yet, except the **`age`** feature.
 
@@ -76,61 +76,70 @@ All numerical variables have a large number of outliers yet, except the **`age`*
 
 ### Hypothesis 1: Chances of having Heart diseases increases by being a man
 
-![H1_TF](https://user-images.githubusercontent.com/81817799/115087356-64742f00-9ee4-11eb-82e2-fc2b914992f0.png)
+<img src= "storytelling/H1_TF.png"> 
+
 The proportion between sick and healthy men compared to the proportion between sick and healthy women are almost the same.
 
 
 ### Hypothesis 2: Chances of having Heart diseases increases by increase the Body Mass Index
 
-![H2_TF](https://user-images.githubusercontent.com/81817799/115087548-b3ba5f80-9ee4-11eb-9b16-4261d8a2fd9c.png)
+<img src= "storytelling/H2_TF.png"> 
+
 The proportion between sick and healthy people increase with the BMI Level growth.
 
 
 ### Hypothesis 3: Chances of having Heart diseases increases by increase the Cholesterol level
 
-![H3_TF](https://user-images.githubusercontent.com/81817799/115087575-c2a11200-9ee4-11eb-800f-e226677df9ba.png)
+<img src= "storytelling/H3_TF.png"> 
+
 The proportion between sick and healthy people increase with the Cholesterol Level growth.
 
 
 ### Hypothesis 4: Chances of having Heart diseases increases by increase the Glucose level
 
-![H4_TF](https://user-images.githubusercontent.com/81817799/115087600-d187c480-9ee4-11eb-8771-11cbc1133486.png)
+<img src= "storytelling/H4_TF.png"> 
+
 The proportion between sick and healthy people increase with the Glucose Level growth.
 
 
 ### Hypothesis 5: Chances of having Heart diseases increases by being a smoker
 
-![H5_TF](https://user-images.githubusercontent.com/81817799/115087637-e1070d80-9ee4-11eb-9a4b-4b16e613e18b.png)
+<img src= "storytelling/H5_TF.png"> 
+
 The proportion between sick and healthy non smokers compared to the proportion between sick and healthy smokers are almost the same.
 
 
 ### Hypothesis 6: Chances of having Heart diseases increases by intake alcohol through life
 
-![H6_TF](https://user-images.githubusercontent.com/81817799/115087653-ebc1a280-9ee4-11eb-85ca-31bc146adceb.png)
+<img src= "storytelling/H6_TF.png"> 
+
 The proportion between sick and healthy non drinkers compared to the proportion between sick and healthy drinkers are almost the same.
 
 
 ### Hypothesis 7: Chances of having Heart diseases decreases by being an active person through life
 
-![H7_TF](https://user-images.githubusercontent.com/81817799/115087668-f7ad6480-9ee4-11eb-9d75-c4da3bf39a70.png)
+<img src= "storytelling/H7_TF.png"> 
+
 The proportion between sick and healthy non sportists compared to the proportion between sick and healthy sportists is lower.
 
 
 ### Hypothesis 8: Chances of having Heart diseases increases by being an older person
 
-![H8_TF](https://user-images.githubusercontent.com/81817799/115087688-05fb8080-9ee5-11eb-8a3f-c9a0c79cf7f0.png)
+<img src= "storytelling/H8_TF.png"> 
+
 The proportion between sick and healthy people increase with the Age Range Level growth.
 
 
 ### Hypothesis 9: Chances of having Heart diseases increases by being hypertensive person
 
-![H9_TF](https://user-images.githubusercontent.com/81817799/115087716-14e23300-9ee5-11eb-863d-51de3ede10ca.png)
-The proportion between sick and healthy people increase with the Hypertension Level growth.
+<img src= "storytelling/H9_TF.png"> 
 
+The proportion between sick and healthy people increase with the Hypertension Level growth.
 
 ### Hypothesis 10: Chances of having Heart diseases is higher between hypertensive elderly people than general hypertensive people
 
-![H10_TF](https://user-images.githubusercontent.com/81817799/115087736-20355e80-9ee5-11eb-9f0e-8be1ab286740.png)
+<img src= "storytelling/H10_TF.png"> 
+
 Between elderlies, the proportion between sick and healthy people increase with the Hypertension Level growth
 This increase exponentially higher than the increase between people in general
 Prehypertense elderlies are more likely to have cardiovascular diseases than prehypertense people in general
@@ -138,7 +147,8 @@ Prehypertense elderlies are more likely to have cardiovascular diseases than pre
 
 ## Multivariate Analysis
 
-![features_relations](https://user-images.githubusercontent.com/81817799/115087781-3ba06980-9ee5-11eb-8e91-e36fcf065adf.png)
+<img src= "storytelling/features_relations.png"> 
+
 **There are some variables that have considerable impact over 'cardio_disease' result values:**
 
 - **`high_pressure`**
@@ -154,7 +164,7 @@ Prehypertense elderlies are more likely to have cardiovascular diseases than pre
 
 To start, the following machine learning models were tested:
 
-![machine_learning_models](https://user-images.githubusercontent.com/81817799/115126568-54bd1f00-9fa6-11eb-9b00-05682f0459fb.png)
+<img src= "storytelling/machine_learning_models.png"> 
 
 - **On the business side:** We are aiming Precision score. Because each 5% increases on it is a R$ 500 increase in the diagnosis test price
 - **On the patient side:** We are aiming Recall score. Because it reduces the chance of having a False Negative test result. As we know, false negatives results, frequently, comforts people into not retest. And in this case, there will be people with a growing disease that they don't know
@@ -163,7 +173,7 @@ So, we will choose the Top 4 best F1 Score models above to analyze, which is a m
 
 # Proposed Machine Learning Model
 
-![final_machine_learning_model](https://user-images.githubusercontent.com/81817799/115125769-b7abb780-9fa0-11eb-9106-5fb2cea58791.png)
+<img src= "storytelling/final_machine_learning_models.png">
 
 - All LGBM models have almost the same metrics, in general
 - Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the others, it will be cut out, thinking about the patients interests
@@ -177,12 +187,11 @@ So, **we will choose the LGBM Tuned as the final model to propose.**
 
 ## Business Precision Methods Comparison
 
-![business_method](https://user-images.githubusercontent.com/81817799/115146869-d6f12600-a02e-11eb-8f92-a7aa1e89047a.JPG)
-
+<img src= "storytelling/business_method.JPG">
 
 ## Business Revenue Methods Comparison
 
-![business_revenue](https://user-images.githubusercontent.com/81817799/115146879-e07a8e00-a02e-11eb-9675-b246779ea4ab.JPG)
+<img src= "storytelling/business_revenue.JPG">
   
   
 # Model Deploy
