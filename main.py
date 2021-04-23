@@ -47,4 +47,5 @@ def disease_predict():
 
 
 if __name__ == '__main__':
-    app.run(host='10.0.0.33', port='5000')
+    port = os.environ.get('PORT', 5000)
+    app.run(host='0.0.0.0', port=port)
