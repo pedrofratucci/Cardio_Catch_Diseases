@@ -1,9 +1,8 @@
 import pickle
 import pandas as pd
-import numpy as np
 from flask import Flask, request, Response
 from classes.cardio_catch_diseases import Cardio_Catch_Diseases
-import json
+import os
 
 # loading model trained from pickle file
 with open('models/lgbm_model_tuned.pkl', 'rb') as file:

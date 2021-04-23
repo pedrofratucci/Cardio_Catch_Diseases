@@ -1,8 +1,4 @@
-import pandas as pd
-import numpy as np
-import json
 import pickle
-import inflection
 
 
 class Cardio_Catch_Diseases(object):
