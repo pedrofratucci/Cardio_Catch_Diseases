@@ -227,7 +227,8 @@ Taking both cases best scenarios in comparison, we have a 400% revenue increase.
   
 # Model Deploy
 
-In process...
+The model application can be found here:
+ - https://cardio-catch-diseases-ph.herokuapp.com/
 
 
 # Further Improvements
