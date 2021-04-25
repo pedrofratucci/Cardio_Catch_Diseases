@@ -2,7 +2,7 @@
 ![Main figure](https://sejaumdatascientist.com/wp-content/uploads/2020/09/doctor.png)
 
 
-# Business Problem
+# Business Problems
 
 Cadio Catch Diseases is a company specialized in detecting heart disease in the early stages. The company is in the Service Business, which offers an early diagnosis of a cardiovascular disease for a certain price.
 
