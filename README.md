@@ -236,7 +236,7 @@ The model application can be found here:
 Optimize the machine learning model precision interval for values over 75%, so the diagnosis test price always remain R$ 2.500,00 so we can have a predictable revenue.
 
 
-# References
+# Referencess
 
 ## Business Problem Source
 - https://sejaumdatascientist.com/projeto-de-data-science-diagnostico-precoce-de-doencas-cardiovasculares/
