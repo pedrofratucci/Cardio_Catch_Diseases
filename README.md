@@ -15,6 +15,7 @@ As we see, the diagnosis acurracy deviation make the CCD company diagnosis eithe
 
 # Objective and Solution Proposal
 
+
 ### Objective
 
 Increment the Cardio Catch Diseases company (CCD) profit. By increase the diagnostics tests precision and stability.
