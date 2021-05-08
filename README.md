@@ -76,69 +76,87 @@ All numerical variables have a large number of outliers yet, except the **`age`*
 
 ### Hypothesis 1: Chances of having Heart diseases increases by being a man
 
-<img src= "storytelling/H1_TF.png"> 
+**FALSE**
+
+<img src= "storytelling/H1.png"> 
 
 The proportion between sick and healthy men compared to the proportion between sick and healthy women are almost the same.
 
 
 ### Hypothesis 2: Chances of having Heart diseases increases by increase the Body Mass Index
 
-<img src= "storytelling/H2_TF.png"> 
+**TRUE**
+
+<img src= "storytelling/H2.png"> 
 
 The proportion between sick and healthy people increase with the BMI Level growth.
 
 
 ### Hypothesis 3: Chances of having Heart diseases increases by increase the Cholesterol level
 
-<img src= "storytelling/H3_TF.png"> 
+**TRUE**
+
+<img src= "storytelling/H3.png"> 
 
 The proportion between sick and healthy people increase with the Cholesterol Level growth.
 
 
 ### Hypothesis 4: Chances of having Heart diseases increases by increase the Glucose level
 
-<img src= "storytelling/H4_TF.png"> 
+**TRUE**
+
+<img src= "storytelling/H4.png"> 
 
 The proportion between sick and healthy people increase with the Glucose Level growth.
 
 
 ### Hypothesis 5: Chances of having Heart diseases increases by being a smoker
 
-<img src= "storytelling/H5_TF.png"> 
+**FALSE**
+
+<img src= "storytelling/H5.png"> 
 
 The proportion between sick and healthy non smokers compared to the proportion between sick and healthy smokers are almost the same.
 
 
 ### Hypothesis 6: Chances of having Heart diseases increases by intake alcohol through life
 
-<img src= "storytelling/H6_TF.png"> 
+**FALSE**
+
+<img src= "storytelling/H6.png"> 
 
 The proportion between sick and healthy non drinkers compared to the proportion between sick and healthy drinkers are almost the same.
 
 
 ### Hypothesis 7: Chances of having Heart diseases decreases by being an active person through life
 
-<img src= "storytelling/H7_TF.png"> 
+
+**TRUE**
+
+<img src= "storytelling/H7.png"> 
 
 The proportion between sick and healthy non sportists compared to the proportion between sick and healthy sportists is lower.
 
 
 ### Hypothesis 8: Chances of having Heart diseases increases by being an older person
 
-<img src= "storytelling/H8_TF.png"> 
+
+**TRUE**
+
+<img src= "storytelling/H8.png"> 
 
 The proportion between sick and healthy people increase with the Age Range Level growth.
 
 
 ### Hypothesis 9: Chances of having Heart diseases increases by being hypertensive person
 
-<img src= "storytelling/H9_TF.png"> 
+<img src= "storytelling/H9.png"> 
 
 The proportion between sick and healthy people increase with the Hypertension Level growth.
 
 ### Hypothesis 10: Chances of having Heart diseases is higher between hypertensive elderly people than general hypertensive people
 
-<img src= "storytelling/H10_TF.png"> 
+<img src= "storytelling/H10.png"> 
 
 Between elderlies, the proportion between sick and healthy people increase with the Hypertension Level growth
 This increase exponentially higher than the increase between people in general
