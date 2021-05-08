@@ -53,16 +53,16 @@ Create a binary classification toll with statics model and machine learning to i
 
 <img src= "storytelling/cat_features_distribution.png"> 
 
-- Most of the patients are woman
-- Most of the patients have a normal cholesterol level
-- Most of the patients have a normal glucose level
-- Most of the patients are a non smoker person
-- Most of the patients are a non drinker person
-- Most of the patients practice a physical activity
-- Most of the patients have a normal or a overweight BMI level
-- There are no younger patients
--  Most of the patients are a half age person
-- Most of the patients have a prehypertension hypertension level
+- Most of the patients are woman.
+- Most of the patients have a normal cholesterol level.
+- Most of the patients have a normal glucose level.
+- Most of the patients are a non smoker person.
+- Most of the patients are a non drinker person.
+- Most of the patients practice a physical activity.
+- Most of the patients have a normal or a overweight BMI level.
+- There are no younger patients.
+-  Most of the patients are a half age person.
+- Most of the patients have a prehypertension hypertension level.
 
 
 ### Numerical Features Distribution Analysis
@@ -159,8 +159,8 @@ The proportion between sick and healthy people increase with the Hypertension Le
 <img src= "storytelling/H10.png"> 
 
 Between elderlies, the proportion between sick and healthy people increase with the Hypertension Level growth
-This increase exponentially higher than the increase between people in general
-Prehypertense elderlies are more likely to have cardiovascular diseases than prehypertense people in general
+This increase exponentially higher than the increase between people in general.
+Prehypertense elderlies are more likely to have cardiovascular diseases than prehypertense people in general.
 
 
 ## Multivariate Analysis
@@ -184,8 +184,8 @@ To start, the following machine learning models were tested:
 
 <img src= "storytelling/machine_learning_models.png"> 
 
-- **On the business side:** We are aiming Precision score. Because each 5% increases on it is a R$ 500 increase in the diagnosis test price
-- **On the patient side:** We are aiming Recall score. Because it reduces the chance of having a False Negative test result. As we know, false negatives results, frequently, comforts people into not retest. And in this case, there will be people with a growing disease that they don't know
+- **On the business side:** We are aiming Precision score. Because each 5% increases on it is a R$ 500 increase in the diagnosis test price.
+- **On the patient side:** We are aiming Recall score. Because it reduces the chance of having a False Negative test result. As we know, false negatives results, frequently, comforts people into not retest. And in this case, there will be people with a growing disease that they don't know.
 
 So, we will choose the Top 4 best F1 Score models above to analyze, which is a metric that takes into account the Precision and the Recall metrics.
 
@@ -193,9 +193,9 @@ So, we will choose the Top 4 best F1 Score models above to analyze, which is a m
 
 <img src= "storytelling/final_machine_learning_models.png">
 
-- All LGBM models have almost the same metrics, in general
-- Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the others, it will be cut out, thinking about the patients interests
-- Taking in account that the LGBM Tuned & Calibrated model have a lower Precision and Recall intervals than the LGBM Tuned model, it will be cut out, thinking about the patients interests
+- All LGBM models have almost the same metrics, in general.
+- Taking in account that the LGBM Default model have a lower Recall and lower F1 score than the others, it will be cut out, thinking about the patients interests.
+- Taking in account that the LGBM Tuned & Calibrated model have a lower Precision and Recall intervals than the LGBM Tuned model, it will be cut out, thinking about the patients interests.
 
 So, **we will choose the LGBM Tuned as the final model to propose.**
 
